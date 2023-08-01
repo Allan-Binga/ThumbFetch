@@ -11,7 +11,6 @@
   }
 ?>
 <!DOCTYPE html>
-<!-- Coding By CodingNepal - youtube.com/codingnepal -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -19,6 +18,7 @@
   <title>Download YouTube Video Thumbnail | CodingNepal</title>
   <link rel="stylesheet" href="thumbnail.css">
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
+   <link rel="icon" href="./favicon.ico" type="image/x-icon">
 </head>
 <body>
   <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
